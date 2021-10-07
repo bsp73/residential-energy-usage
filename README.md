@@ -1,1 +1,3 @@
 # residential-energy-usage
+
+In this project, the goal is to find out if certain socioeconomic factors affect residential energy usage. The best sample I could get for energy usage was the average of each state, so all of the other features will be about states. I am currently in the process of gathering and cleaning data, as I couldn't find a single dataset with all of the features I'd like to include. So far, the features in the dataset are population density, proportion of democrat and republican votes in the 2020 election, population density, and metric for weather that I created. I plan to run linear regression and principle component analysis once I complete the dataset.
